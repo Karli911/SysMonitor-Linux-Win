@@ -37,6 +37,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
